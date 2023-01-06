@@ -1,8 +1,6 @@
 # Snake
 
-A recreation of the classic [Snake](https://en.wikipedia.org/wiki/Snake_(video_game_genre)) video game.
-
-Displayed entirely in the terminal using special Unicode characters.
+A recreation of the classic [Snake](https://en.wikipedia.org/wiki/Snake_(video_game_genre)) video game displayed entirely in the terminal using Unicode characters and [ANSI escape codes](https://en.wikipedia.org/wiki/ANSI_escape_code).
 
 Run with 
 ```
