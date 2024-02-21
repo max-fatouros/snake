@@ -9,8 +9,6 @@ from pynput.keyboard import Key
 import game
 import copy
 
-import tensorflow as tf
-
 from abc import ABC, abstractmethod
 
 EMPTY = "  "
