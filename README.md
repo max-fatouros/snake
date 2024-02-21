@@ -2,6 +2,8 @@
 
 A recreation of the classic [Snake](https://en.wikipedia.org/wiki/Snake_(video_game_genre)) video game displayed entirely in the terminal using Unicode characters and [ANSI escape codes](https://en.wikipedia.org/wiki/ANSI_escape_code).
 
+![Gameplay](https://github.com/max-fatouros/snake/blob/master/gif/gameplay.gif)
+
 Run with 
 ```
 python3 main.py
